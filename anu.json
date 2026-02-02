@@ -4,6 +4,11 @@
       "registeredAt": 1700000000000,
       "expiredAt": 1700604800000,
       "type": "trial"
+    },
+    "6282229259122": {
+      "registeredAt": 1770052363256,
+      "expiredAt": 1770052783256,
+      "type": "trial"
     }
   }
 }
