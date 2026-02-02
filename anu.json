@@ -1,11 +1,8 @@
 {
-  "owners": [
-    "6283848833500"
-  ],
-  "users": {
-    "6282229259122": {
-      "registeredAt": 1769915710281,
-      "expiredAt": 1770520510281,
+  "botLicense": {
+    "6283848833500": {
+      "registeredAt": 1700000000000,
+      "expiredAt": 1700604800000,
       "type": "trial"
     }
   }
