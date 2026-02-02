@@ -1,9 +1,16 @@
 {
-  "owners": ["62822xxxxxxx"],
+  "owners": [
+    "62822xxxxxxx"
+  ],
   "botLicense": {
     "62822xxxxxxx": {
       "type": "trial",
       "expiredAt": 1739000000000
+    },
+    "6282229259122": {
+      "registeredAt": 1770053217979,
+      "expiredAt": 1770053637979,
+      "type": "trial"
     }
   },
   "users": {}
