@@ -1946,6 +1946,10 @@
       "registeredAt": 1770813633577,
       "expiredAt": 1771418433577,
       "type": "trial"
+    },
+    "6285755121697": {
+      "type": "premium",
+      "expiredAt": 1773406558573
     }
   }
 }
