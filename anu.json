@@ -3,6 +3,11 @@
     "6283848833500"
   ],
   "users": {
+    "0": {
+      "registeredAt": 1770789785245,
+      "expiredAt": 1771394585245,
+      "type": "trial"
+    },
     "61": {
       "registeredAt": 1770622328180,
       "expiredAt": 1771227128180,
