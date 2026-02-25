@@ -2662,9 +2662,8 @@
       "type": "trial"
     },
     "6285847751873": {
-      "registeredAt": 1771039318527,
-      "expiredAt": 1771644118527,
-      "type": "trial"
+      "type": "premium",
+      "expiredAt": 2635941963551
     },
     "6283135838658": {
       "registeredAt": 1771039555644,
